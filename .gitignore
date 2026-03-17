@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+books/
+logs/
+exports/
+config/ngrok_urls.txt
+config/series_counter.txt
+config/series_list.txt
+.env
+*.zip
