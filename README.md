@@ -4,7 +4,7 @@
 
 **One prompt → full PDF package ready for Amazon KDP.**
 
-This is the open-source core pipeline from [StoryMint](https://storymint.jivanico.com) by **Jivan Co**. It runs entirely on your local machine with Ollama (text) and Stable Diffusion Forge (illustrations).
+This is the open-source core pipeline from [StoryMint](https://storymint.jivanico.com) by **Ervin**. It runs entirely on your local machine with Ollama (text) and Stable Diffusion Forge (illustrations).
 
 ---
 
