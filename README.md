@@ -2,9 +2,9 @@
 
 > Generate illustrated 24-page children's books using AI — locally, privately, for free.
 
-**One prompt → full PDF package ready for Amazon KDP.**
+**One prompt → full illustrated PDF book.**
 
-This is the open-source core pipeline from [StoryMint](https://storymint.jivanico.com) by **Jivan Co**. It runs entirely on your local machine with Ollama (text) and Stable Diffusion Forge (illustrations).
+This is the open-source core pipeline from **StoryMint** by **Ervin Ezzati Jivan**. It runs entirely on your local machine with Ollama (text) and Stable Diffusion Forge (illustrations).
 
 ---
 
@@ -16,7 +16,7 @@ This is the open-source core pipeline from [StoryMint](https://storymint.jivanic
 4. AI reviews and rewrites until quality passes
 5. Generates an illustration for every page
 6. Builds cover + interior + back cover PDFs
-7. Packages everything into a ZIP ready for KDP
+7. Packages everything into a ZIP ready for publishing
 
 ---
 
@@ -124,7 +124,7 @@ Each book generates a `book_package.zip` containing:
 
 | File | Description |
 |------|-------------|
-| `cover.pdf` | KDP-ready front cover |
+| `cover.pdf` | Print-ready front cover |
 | `cover.jpg` | 2550×2550 px cover image |
 | `interior.pdf` | 24 illustrated pages |
 | `full-book.pdf` | Cover + interior + back |
@@ -133,7 +133,7 @@ Each book generates a `book_package.zip` containing:
 
 ## StoryMint
 
-The commercial version with web UI, subscription plans, cloud storage, and more: [storymint.jivanico.com](https://storymint.jivanico.com)
+The commercial version with web UI, subscription plans, cloud storage, and more: [github.com/ecoder1234/book-factory-open-source](https://github.com/ecoder1234/book-factory-open-source)
 
 ---
 
@@ -141,4 +141,4 @@ The commercial version with web UI, subscription plans, cloud storage, and more:
 
 MIT — use freely for personal or commercial children's books.
 
-(c) Jivan Co
+(c) Ervin Ezzati Jivan
